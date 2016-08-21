@@ -1,10 +1,10 @@
-.f
+.f /*here the symbol (.) dot defines that its a class*/
 {
 color:blue;
 }
 
 
-h1
+h1 /* here no (.)dot is used so the h1 is not the class so the h1 is refrenced to the html element h1 */
 {
 color:green;
 }
